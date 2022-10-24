@@ -1,0 +1,28 @@
+body{
+    margin: 0;
+    padding: 0;
+
+
+}
+.image-container{
+    height: 100vh;
+    width: 100vw;
+    text-align: center;
+    background: rgb(21, 22, 22);
+}
+img{
+    height: 50%;
+    width: 50%;
+    margin-top: 10rem;
+    object-fit: cover;
+}
+button{
+    display: flex;
+    background: rgb(0, 119, 255);
+    color: white;
+    margin-left: 10px;
+    border-radius: 5px;
+    padding: 10px;
+    cursor: pointer;
+    margin-left: 35rem;
+}
